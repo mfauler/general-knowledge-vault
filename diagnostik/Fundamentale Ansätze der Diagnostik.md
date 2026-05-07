@@ -1,0 +1,2 @@
+1) Mustererkennung: Nachweis eines krankheitsbildtypischen Phänotyps. Benötigt eine nosologische Beschreibung und Klassifikation von Krankheitsentitäten.
+2) Modellidentifikation: Beinhaltet die Störungsbildbeschreibung und -analyse basierend auf einem Krankheitsmodell. Benötigt die Abbildung von Krankheitsprozessen und Störungsketten, Anpassungsreaktionen und deren Wechselwirkungen mit normalen Körperfunktionen.

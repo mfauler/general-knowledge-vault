@@ -1,0 +1,9 @@
+1. Strukturmerkmale: Stoffmengen und daraus abgeleitete Größen wie Konzentrationen oder Dichten, Längen, Volumina, Masse, Verbindungen (Gelenke), Elastizitätsmodul
+2. Zustandsmerkmale: Kraft, Beschleunigung, Geschwindigkeit, Position beweglicher Strukturen, abgeleitet: Druck, Fluss
+
+Ausserdem können Variablen
+- beobachtbar oder latent
+- real oder virtuell/abstrakt
+sein.
+*Abstrakte Variablen* definieren sich über ein Beobachtungsmodell (Messmodell) und können je nach Beobachtungsbedingung auch Parameter sein. Z.B. Widerstandswerte. Sie sind aber nicht Teil des Messmodells, sondern werden durch das Messmodell valide, d. h. sind nur durch das zugrundliegende messtheoretische Konzept, das im erweiterten Sinn auch die theoretischen (oder hypothetischen) -mitunter vereinfachenden - Annahmen zur Systemfunktion beinhaltet, interpretierbar. Sie sind virtuell im systembeschreibenden Modell existierende latente Zustandsvariablen, die aufgrund der abstrakten Vereinfachung im heuristisch-empirischen Modell kein reales (strukturelles) Korrelat haben. Z.B. wenn komplexe biologische Regelkreise vereinfacht anwendungsbezogen durch eine Ersatzschaltung nachgebildet werden, das real existierende neuronale Netzwerk aber wesentlich komplexer ist, und tatsächlich vermutlich einen modellbasierten Regler repräsentiert. Solche Variablen könnten dann Sollwerte, aber auch Steuersignale o.ä. sein. Der Modellierungsansatz verwendet Funktionsblöcke mit Transferfunktionen, die rein empirisch bestimmt sind, nicht bottom-up über eine induktiv-integrative struktur-basiert detaillierte (molekulär, zellulär) Simulation nachgebildet wird.
+

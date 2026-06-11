@@ -304,6 +304,9 @@ so verändern, dass pathologische Zustände, klinisch relevante Störungsbilder,
 - Fundamentale Ansätze der Diagnostik: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/diagnostik/fundamentale-ansaetze-der-diagnostik.md
 - Funktionsorientierte Medizin: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/diagnostik/funktionsorientierte-medizin.md
 
+
+### Klinik
+- DD posttraumatischer Kopfschmerz, Schwindel, Vertikalnystagmus: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/klinik/dd-posttraumatischer-kopfschmerz-schwindel-vertikalnystagmus.md
 ---
 
 *Generiert von /update-claude-web-context am 2026-05-07*

@@ -305,6 +305,9 @@ so verändern, dass pathologische Zustände, klinisch relevante Störungsbilder,
 - Funktionsorientierte Medizin: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/diagnostik/funktionsorientierte-medizin.md
 
 
+### PiCA-Projektregister
+- PICA-TODO (offene Aufgaben, kontinuierlich aktualisiert): https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/PICA-TODO.md
+
 ### Klinik
 - DD posttraumatischer Kopfschmerz, Schwindel, Vertikalnystagmus: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/klinik/dd-posttraumatischer-kopfschmerz-schwindel-vertikalnystagmus.md
 ---

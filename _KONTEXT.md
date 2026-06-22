@@ -306,7 +306,7 @@ so verändern, dass pathologische Zustände, klinisch relevante Störungsbilder,
 
 
 ### PiCA-Projektregister
-- PICA-TODO (offene Aufgaben, kontinuierlich aktualisiert): https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/PICA-TODO.md
+- PiCA-TODO-Register (offene Aufgaben; migriert ins PiCA-Repo): https://raw.githubusercontent.com/mfauler/pica-knowledge-base/main/todos/README.md
 
 ### Klinik
 - DD posttraumatischer Kopfschmerz, Schwindel, Vertikalnystagmus: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/klinik/dd-posttraumatischer-kopfschmerz-schwindel-vertikalnystagmus.md

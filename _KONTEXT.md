@@ -310,6 +310,9 @@ so verändern, dass pathologische Zustände, klinisch relevante Störungsbilder,
 
 ### Klinik
 - DD posttraumatischer Kopfschmerz, Schwindel, Vertikalnystagmus: https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/klinik/dd-posttraumatischer-kopfschmerz-schwindel-vertikalnystagmus.md
+
+### Todo (Vault, offen)
+- Sonographie in der MTR-Ausbildung — Bedeutung, Kompetenzniveau, Trias-Einordnung (Textbausteine für Berufsbild – MTR und Trias Abschnitt 5; 2026-09-02): https://raw.githubusercontent.com/mfauler/general-knowledge-vault/main/todo/sonographie-mtr-ausbildung-kompetenzniveau.md
 ---
 
 *Generiert von /update-claude-web-context am 2026-05-07*

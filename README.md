@@ -3,7 +3,7 @@
 Spiegel zentraler Konzeptdokumente aus dem Obsidian-Vault von Michael Fauler.
 Zweck: Bereitstellung als Kontext für Claude.ai (Web/Android) via `web_fetch`.
 
-**Letzte Aktualisierung:** 2026-05-07
+**Letzte Aktualisierung:** 2026-09-02 (manuell: `klinik/` und `todo/` in Struktur ergänzt)
 
 ---
 
@@ -44,6 +44,12 @@ sofl/
 diagnostik/
   fundamentale-ansaetze-der-diagnostik.md   Mustererkennung vs. Modellidentifikation
   funktionsorientierte-medizin.md           Störungsbild- vs. Krankheitsbild-orientierter Ansatz
+
+klinik/
+  dd-posttraumatischer-kopfschmerz-schwindel-vertikalnystagmus.md   Klinische DD-Diskussion (2026-06)
+
+todo/
+  sonographie-mtr-ausbildung-kompetenzniveau.md   Todo: Sonographie in der MTR-Ausbildung (Trias, EPA, Delegationsrahmen), offen (2026-09-02)
 ```
 
 ---
